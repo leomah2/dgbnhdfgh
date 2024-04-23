@@ -1,0 +1,5 @@
+rpc call fail.  try to use the script to auto restart when node stop 
+__
+sudo apt install nano 
+
+sudo apt install screen 
